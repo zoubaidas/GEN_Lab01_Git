@@ -1,1 +1,1 @@
-coucou
+Merge conflict résolu
